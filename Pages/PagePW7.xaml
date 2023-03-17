@@ -34,5 +34,10 @@
             <ListBox
                 Name="LstArray2"/>
         </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <TextBlock Text="В массиве R, содержащем 25 элементов, заменить значения отрицательных элементов квадратами значений, значения положительных увеличить на 7. Вывести массив R"
+                       TextWrapping="Wrap"
+                       Width="750"/>
+            </StackPanel>
     </Grid>
 </Page>
